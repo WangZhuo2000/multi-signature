@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "libsig.h": "c",
+        "lib_ecc_types.h": "c",
+        "libec.h": "c",
+        "curves.h": "c",
+        "curves_list.h": "c",
+        "time.h": "c",
+        "ecsdsa_common.h": "c",
+        "typeinfo": "c",
+        "pbc.h": "c",
+        "pbc_param.h": "c",
+        "pbc_pairing.h": "c",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "dbn.h": "c"
+    }
+}
